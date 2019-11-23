@@ -3,7 +3,7 @@
 import os, sys, time, re 
 
 if __name__ == '__main__' :
-    root = 'this-week-in'
+    root = 'bootiful-podcast'
     repositories = 'https://github.com/%s/__init__/blob/master/repositories.txt' % root 
 
     def generate_init_repository() :
