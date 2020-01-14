@@ -4,3 +4,5 @@ api
 site-generator
 processor
 shell
+site-generator-launcher
+rabbitmq-utilities
