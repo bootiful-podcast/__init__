@@ -3,5 +3,4 @@ podbean-client
 api
 site-generator
 processor
-site-generator-launcher
 rabbitmq-utilities
